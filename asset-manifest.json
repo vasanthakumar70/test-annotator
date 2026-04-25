@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/test-annotator/static/css/main.b50e321f.css",
+    "main.js": "/test-annotator/static/js/main.72eb8c07.js",
+    "static/js/453.ab653ef9.chunk.js": "/test-annotator/static/js/453.ab653ef9.chunk.js",
+    "index.html": "/test-annotator/index.html",
+    "main.b50e321f.css.map": "/test-annotator/static/css/main.b50e321f.css.map",
+    "main.72eb8c07.js.map": "/test-annotator/static/js/main.72eb8c07.js.map",
+    "453.ab653ef9.chunk.js.map": "/test-annotator/static/js/453.ab653ef9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b50e321f.css",
+    "static/js/main.72eb8c07.js"
+  ]
+}
